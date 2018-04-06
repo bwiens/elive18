@@ -4,4 +4,4 @@ Some files for the presentation "Developing and Auditing Web Applications that F
 
 Files:
 
-BANNER_UTIL.sql -- collection of functions that return Banner data (package spec and body)
+BANNER_UTIL.sql -- collection of functions + source code that return Banner data (package spec and body)
